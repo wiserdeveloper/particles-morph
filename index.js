@@ -1,4 +1,5 @@
 // ----------------------------------------------------------------- THREE.JS PRACTICE -----------------------------------------------------------------
+// three.js documentation I used https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
 const numberOfParticles = 8000;
 
